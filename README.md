@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas 👋
 
-I'm a full-stack software engineer focused on building clean, accessible, and maintainable web applications.
+I'm a Nicolas, a full-stack software engineer focused on building clean, accessible, and maintainable web applications.
 
 ## What I work with
 
